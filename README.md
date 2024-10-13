@@ -1,5 +1,6 @@
-## Hi there 👋 I'm Rakshith
+<h3 align="center">Hi there 👋 I'm Rakshith</h3>
 
+<h3 align="center">A enthusiastic Electronics Engineering Student from Mangaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshith-kukyan&label=Profile%20views&color=0e75b6&style=flat" alt="rakshith-kukyan" /> </p>
 
