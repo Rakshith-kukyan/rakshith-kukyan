@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rakshith
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshanvh&label=Profile%20views&color=0e75b6&style=flat" alt="rakshith-kukyan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshith-kukyan&label=Profile%20views&color=0e75b6&style=flat" alt="rakshith-kukyan" /> </p>
 
 
 <!--
